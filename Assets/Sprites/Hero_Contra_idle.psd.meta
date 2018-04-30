@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 90b29e25ced024740836d868b588f6c4
+timeCreated: 1521152007
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_Contra_idle_0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_Contra_idle_0
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 518
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: '{"fileNaming":"CreateGroupFolders","groupMode":"ParentOnly","PackingTag":null,"TargetDirectory":null,"AutoImport":false,"DefaultAlignment":"BottomCenter","DefaultPivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","DocAlignment":"Center","DocPivot":{"x":0.5,"y":0.5},"DocRoot":{"name":"DOCUMENT_ROOT","path":null,"indexId":[-1],"import":false,"useDefaults":false,"Alignment":"Center","Pivot":{"x":0.0,"y":0.0},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    3","path":"Layer 3","indexId":[0],"import":false,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    0","path":"Layer 0","indexId":[1],"import":false,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Group
+    1","path":"Group 1","indexId":[2],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    1","path":"Group 1/Layer 1","indexId":[2,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    2_copt","path":"Group 1/Layer 2_copt","indexId":[2,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Idle1","path":"Idle1","indexId":[3],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    1","path":"Idle1/Layer 1","indexId":[3,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    2_copt copy","path":"Idle1/Layer 2_copt copy","indexId":[3,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Idle2","path":"Idle2","indexId":[4],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    1","path":"Idle2/Layer 1","indexId":[4,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    2_copt copy 2","path":"Idle2/Layer 2_copt copy 2","indexId":[4,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]}}'
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 28c19b1cb35dea942b9fc927b72e92c9
+timeCreated: 1521061185
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+  spritePackingTag: 
+  userData: '{"fileNaming":"CreateGroupFolders","groupMode":"ParentOnly","PackingTag":null,"TargetDirectory":"Assets/Sprites","AutoImport":false,"DefaultAlignment":"BottomCenter","DefaultPivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","DocAlignment":"BottomCenter","DocPivot":{"x":0.5,"y":0.0},"DocRoot":{"name":"DOCUMENT_ROOT","path":null,"indexId":[-1],"import":false,"useDefaults":false,"Alignment":"Center","Pivot":{"x":0.0,"y":0.0},"ScaleFactor":"Full","Childs":[{"name":"First_Up_45","path":"First_Up_45","indexId":[0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"First_Up_45_legs","path":"First_Up_45/First_Up_45_legs","indexId":[0,0],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"First_Up_45_hands","path":"First_Up_45/First_Up_45_hands","indexId":[0,1],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Idle1","path":"Idle1","indexId":[1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Idle1_legs","path":"Idle1/Idle1_legs","indexId":[1,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Idle1_body","path":"Idle1/Idle1_body","indexId":[1,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Down_45","path":"Down_45","indexId":[2],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Down_45_legs","path":"Down_45/Down_45_legs","indexId":[2,0],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Down_45_hands","path":"Down_45/Down_45_hands","indexId":[2,1],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"UP","path":"UP","indexId":[3],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Up_legs","path":"UP/Up_legs","indexId":[3,0],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Up_hand","path":"UP/Up_hand","indexId":[3,1],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"UP_recoil","path":"UP_recoil","indexId":[4],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Up_legs","path":"UP_recoil/Up_legs","indexId":[4,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Up_hand","path":"UP_recoil/Up_hand","indexId":[4,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Lay","path":"Lay","indexId":[5],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Lay_legs","path":"Lay/Lay_legs","indexId":[5,0],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Lay_hand","path":"Lay/Lay_hand","indexId":[5,1],"import":true,"useDefaults":false,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Lay_recoil","path":"Lay_recoil","indexId":[6],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Lay_legs","path":"Lay_recoil/Lay_legs","indexId":[6,0],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Lay_hand","path":"Lay_recoil/Lay_hand","indexId":[6,1],"import":true,"useDefaults":true,"Alignment":"BottomCenter","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]}}'
+  assetBundleName: 
+  assetBundleVariant: 
